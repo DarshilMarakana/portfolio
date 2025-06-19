@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Java Banking App",
+    "desc": "Banking app Using java and it's framework called swing and also connected database planetScale. It is fully functionable like create account, deposite, withdraw, Check balance, Statement. It has also feature a same user can't acess their account from multiple pcs.   ",
+    "image": "javabankingapp",
+    "category": "java",
+    "links": {
+      "view": "",
+      "code": "https://github.com/DarshilMarakana/Banking-management.git"
+    }
+  },
+  {
+    "name": "Fakeflix Movies",
+    "desc": "A website of buying movies and webseries. It has devided into multiple sections home, Bollywood, Hollywood, Web series, Signin, Signup, About us etc. HTML, CSS and JS woth carousal javascript are used in this web site. it is fully responsive website. it has no database. ",
+    "image": "Fakeflix",
+    "category": "HTML",
+    "links": {
+      "view": "",
+      "code": "https://github.com/DarshilMarakana/FakeFlixMovies.git"
+    }
+  },
+  {
+    "name": "CricFantasy App",
+    "desc": "This cricket fantasy app revolutionizes local match participation by enabling users to organize tournaments and compete in their communities. Beyond traditional fantasy gameplay, it offers a unique platform for organizing and participating in local cricket tournaments. With real-time live scoring, players can track match progress and performance updates seamlessly. The app fosters community engagement, encouraging cricket enthusiasts to connect, compete, and showcase their skills locally. Its intuitive interface and comprehensive features make it a go-to destination for cricket lovers seeking both entertainment and community involvement. Whether organizing tournaments or participating in live matches, this app brings the excitement of cricket closer to home.",
+    "image": "CricFantasy",
+    "category": "react",
+    "links": {
+      "view": "",
+      "code": "https://github.com/nishantKathrotiya/fantasyApp.git"
+    }
+  }
+]
